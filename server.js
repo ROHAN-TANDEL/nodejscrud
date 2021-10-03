@@ -10,6 +10,6 @@ require('dotenv').config();
 
 app.get('/', (req, res) => { res.send('running nodejs application ! '); console.log('server is read'); });
 
-app.listen(process.env.SERVER_PORT || 3000, () => console.log('Server ready'));
+app.listen(process.env.SERVER_PORT || 8000, () => console.log('Server ready'));
 
 
