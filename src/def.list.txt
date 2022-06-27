@@ -1,0 +1,13 @@
+lightweight, 
+interpreted, 
+just-in-time compiled programming language
+first-class functions
+Node.js
+prototype-based
+multi-paradigm
+single-threaded
+dynamic language
+supporting object-oriented
+imperative
+declarative
+.

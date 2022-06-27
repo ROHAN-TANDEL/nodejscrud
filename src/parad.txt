@@ -1,0 +1,5 @@
+```
+multi-paradigm
+The most common and practical paradigms in javascript are Functional Programming and Object Oriented Programming
+The main advantage of using this type of approach is because it eliminates redundancy in code that's why developers use helper functions for code abstraction.
+```

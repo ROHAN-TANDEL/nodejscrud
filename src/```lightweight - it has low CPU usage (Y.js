@@ -1,0 +1,2 @@
+```lightweight - it has low CPU usage (You can not justify that If your program uses heavy CPU), designed to have small memory footprint, are easy to implement (important when porting a language to different systems), and/or have minimalist syntax and features
+Example c++ and Java have rich build in function that are when implimented uses more resources where as such functionaliries are missing in Javasript example memory managment```

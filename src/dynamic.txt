@@ -1,0 +1,18 @@
+```dynamic language:
+language can set type ocnvert them,
+use memeroy as required plays and executes anything needned
+where are in static program u need to define memory size, object    runtime alteration,  variable type coz omplier needs to compliter all at once on other hand interpreter does help in dynmaic programming execution
+
+supporting object-oriented:
+
+https://course.ccs.neu.edu/cs4410sp19/lec_objects_notes.html
+
+imperative
+With an imperative approach, a developer writes code that specifies the steps that the computer must take to accomplish the goal. This is sometimes referred to as algorithmic programming. In contrast, a functional approach involves composing the problem as a set of functions to be executed. You define carefully the input to each function, and what each function returns. The following table describes some of the general differences between these two approaches.
+
+
+https://www.geeksforgeeks.org/introduction-of-programming-paradigms/
+
+declarative (e.g. functional programming)
+declarative programming. In contrast, most mainstream languages, including object-oriented programming (OOP) languages such as C#, Visual Basic, C++, and Java, were designed to primarily support imperative (procedural) programming.
+```;
